@@ -1,2 +1,5 @@
 # chat-app
 Through this project, I gained a deeper understanding of network configuration and implementation within a local area network (LAN) using Cisco Packet Tracer. Specifically, I learned how to design and configure a LAN infrastructure, assign IP addresses to devices, establish connectivity, and set up a web server.
+Throughout the project, I enhanced my troubleshooting and problem-solving abilities by resolving network connectivity issues, server configuration challenges, and application functionality problems.
+Additionally, I improved my collaboration and project management skills, as I worked as part of a team to divide tasks, manage timelines, and ensure project deliverables were met.
+Overall, this project provided me with hands-on experience in network configuration, web server setup, application development, troubleshooting, collaboration, and project management. It strengthened my knowledge of networking concepts and protocols, and enhanced my ability to apply that knowledge in practical scenarios.
